@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW10\TS0803\main.cpp(112,49): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Study files\Code\Programming Question\1091OOPIMW10\TS0803\main.cpp(130,49): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  TS0803.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW10\x64\Debug\TS0803.exe
