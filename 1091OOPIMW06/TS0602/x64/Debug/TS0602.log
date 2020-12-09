@@ -1,0 +1,4 @@
+﻿  Prime.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW06\TS0602\Prime.cpp(114): warning C4172: returning address of local variable or temporary: newPrime
+D:\Study files\Code\Programming Question\1091OOPIMW06\TS0602\Prime.cpp(129): warning C4172: returning address of local variable or temporary: newPrime
+  TS0602.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW06\x64\Debug\TS0602.exe
