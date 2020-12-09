@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW11\TSA04\main.cpp(101,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Study files\Code\Programming Question\1091OOPIMW11\TSA04\main.cpp(114,40): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  TSA04.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW11\x64\Debug\TSA04.exe
