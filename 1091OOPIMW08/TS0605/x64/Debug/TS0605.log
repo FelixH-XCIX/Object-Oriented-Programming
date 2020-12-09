@@ -1,0 +1,6 @@
+﻿  Creature.cpp
+  Diary.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW08\TS0605\Diary.cpp(6,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  TS0605.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW08\x64\Debug\TS0605.exe
