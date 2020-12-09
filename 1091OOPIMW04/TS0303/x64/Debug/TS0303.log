@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW04\TS0303\Source.cpp(71,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study files\Code\Programming Question\1091OOPIMW04\TS0303\Source.cpp(103,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study files\Code\Programming Question\1091OOPIMW04\TS0303\Source.cpp(125,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TS0303.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW04\x64\Debug\TS0303.exe
