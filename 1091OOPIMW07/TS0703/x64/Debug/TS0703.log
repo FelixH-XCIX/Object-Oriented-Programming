@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW07\TS0703\main.cpp(16,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TS0703.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW07\x64\Debug\TS0703.exe

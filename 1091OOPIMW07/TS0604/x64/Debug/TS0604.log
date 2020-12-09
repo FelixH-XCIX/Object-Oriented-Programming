@@ -1,0 +1,5 @@
+﻿  VecNf.cpp
+  main.cpp
+  Generating Code...
+D:\Study files\Code\Programming Question\1091OOPIMW07\TS0604\VecNf.cpp(115): warning C4715: 'VecNf::operator[]': not all control paths return a value
+  TS0604.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW07\x64\Debug\TS0604.exe
