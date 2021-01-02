@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Study files\Code\Programming Question\1091OOPIMW15\TSA09\main.cpp(218,34): warning C4018: '>=': signed/unsigned mismatch
+D:\Study files\Code\Programming Question\1091OOPIMW15\TSA09\main.cpp(218,71): warning C4018: '<=': signed/unsigned mismatch
+  TSA09.vcxproj -> D:\Study files\Code\Programming Question\1091OOPIMW15\x64\Debug\TSA09.exe

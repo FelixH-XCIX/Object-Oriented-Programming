@@ -1,0 +1,13 @@
+Student 0 has 900
+ID1 90
+Student 1 has 1750
+ID4 240
+Student 0 has 842151401
+ID-842150451 3452816835
+Student 1 has 1750
+Student 1 doesn't have this item
+Student 0 has 842150651
+ID-842150451 3452816835
+ID4 240
+ID4 240
+ID4 240

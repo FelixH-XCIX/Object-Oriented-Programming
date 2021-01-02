@@ -1,0 +1,23 @@
+3 5
+1000 2000 3000
+50 100 150 200 250
+buy 0 0
+buy 0 1
+buy 0 2
+buy 0 3
+buy 0 4
+show 0
+trade 2 1 0 100 250
+trade 2 0 0 100 250
+trade 2 0 0 40 50
+show 0
+show 2
+trade 1 2 0 20 30
+show 1
+show 2
+sell 0 0 50
+sell 0 0 20
+sell 1 0 20
+show 1
+
+end
